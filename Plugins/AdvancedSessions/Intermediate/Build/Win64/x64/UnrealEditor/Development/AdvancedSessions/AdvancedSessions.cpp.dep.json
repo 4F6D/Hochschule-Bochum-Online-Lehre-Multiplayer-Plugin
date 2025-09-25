@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\rener\\documents\\unreal projects\\mp_test\\mp_test\\plugins\\advancedsessions\\source\\advancedsessions\\private\\advancedsessions.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\rener\\documents\\unreal projects\\mp_test\\mp_test\\intermediate\\build\\win64\\x64\\mp_testeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\rener\\documents\\unreal projects\\mp_test\\mp_test\\plugins\\advancedsessions\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\advancedsessions\\definitions.advancedsessions.h",
+            "c:\\users\\rener\\documents\\unreal projects\\mp_test\\mp_test\\plugins\\advancedsessions\\source\\advancedsessions\\classes\\advancedsessions.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

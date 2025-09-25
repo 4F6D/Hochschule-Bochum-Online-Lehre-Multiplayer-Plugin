@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\rener\\documents\\unreal projects\\mp_test\\mp_test\\plugins\\advancedsteamsessions\\source\\advancedsteamsessions\\private\\advancedsteamsessions.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\rener\\documents\\unreal projects\\mp_test\\mp_test\\intermediate\\build\\win64\\x64\\mp_test\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\rener\\documents\\unreal projects\\mp_test\\mp_test\\plugins\\advancedsteamsessions\\intermediate\\build\\win64\\x64\\unrealgame\\development\\advancedsteamsessions\\definitions.advancedsteamsessions.h",
+            "c:\\users\\rener\\documents\\unreal projects\\mp_test\\mp_test\\plugins\\advancedsteamsessions\\source\\advancedsteamsessions\\classes\\advancedsteamsessions.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
