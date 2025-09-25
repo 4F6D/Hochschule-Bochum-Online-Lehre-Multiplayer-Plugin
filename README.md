@@ -38,7 +38,8 @@ Es ermöglicht, Lehrveranstaltungen in VR kollaborativ durchzuführen und schaff
 # Changelog
 
 ## Version 0.2.0 – 2025-09-02
-- Dokumentation und README erstellt  
+- Dokumentation und README erstellt
+- Github Repository erstellt
 
 ## Version 0.1.0 – 2025-07-10
 - GUI erstellt  
